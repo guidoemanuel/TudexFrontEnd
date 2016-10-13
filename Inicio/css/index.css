@@ -1,0 +1,82 @@
+/* ==================================================================================================================== */
+/*                                       Avellaneda Alejandro 2016 // Tudex 2016                                        */
+/* ==================================================================================================================== */
+*{  font-family: "Open Sans", Arial, Helvetica, Sans-serif;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+.icon {
+    display: inline-block;
+    height: 120px;
+    width: 120px;
+  }
+input, select{
+
+    font-family: "Open Sans";
+    font-weight: bold;
+    border-style: none none solid;
+    border-width: medium medium 1px;
+    border-bottom: 3px #2B2B2B solid;
+    margin-bottom: 0;
+    padding: 4px 4px;
+    min-width: 200px;
+    max-width: 201px;
+}
+select{
+    min-width: 210px;
+    max-width: 211px;
+}
+input[type="submit"]
+{
+    color: #2B2B2B;
+}
+body{
+background: #fff;
+
+}
+h1{
+    display: block;
+    color: #2B2B2B;
+    font-size: 2em;
+    
+    font-weight: bold;
+}
+h2{
+    display: block;
+    color: #2B2B2B;
+    font-size: 1em;
+    
+    font-weight: bold;
+}
+a {
+    color: #2B2B2B;
+    display: inline-block;
+    text-decoration: underline;
+    
+}
+a:hover{
+  text-decoration: none;
+ /* -webkit-box-shadow: 0 0px 3px #2B2B2B;*/
+}
+a:active{
+       
+}
+a:visited  {
+
+
+
+}
+
+footer {
+  bottom:0; 
+  position:fixed;
+  font-family: "Open Sans";
+  font-weight: bold;
+  border-style: none none solid;
+  border-width: medium medium 1px;
+  border-bottom: 3px #2B2B2B solid;
+  padding: 4px 4px;
+  width: 50%;
+
+}
