@@ -1,4 +1,3 @@
-
 <meta charset="utf-8">
 <style type="text/css">
 *{
@@ -163,7 +162,7 @@ overflow: hidden;
 		            <div class="chat-saliente">bien y vos:)</div>
 		            <div class="chat-entrante">que hacaes?</div>
 		            <div class="chat-saliente">nada y vos?</div>
-		            <div class="chat-saliente">OverPower</div>
+		            <div class="chat-saliente">gjhjghkjhkgjjkhjhjkkljkhlhjhlkjhljkhlkjhljkhlkjhljkhljkhlkjhlkjhljhljhl ljhjl khjhljk hljkhlhjhjhljkh jhljk hlkjhlkjhlkjhlkjh hj jkhlh lk</div>
 				</div>
 
 				<div class="control">
